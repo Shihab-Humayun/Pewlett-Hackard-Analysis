@@ -18,5 +18,13 @@ The purpose of this analysis is to create queries from provided databases to Bob
 
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+The total number of roles that will need to be filled as the "silver tsunami" begins to make an impact is 90,398 roles. The first year of retirement there are 21,209 employees that will retire. That is nearly 23.4% of the total 90,398 employees that will retire in the span of 3 years. I have used the following query to calculate this number. 
+
+![firstyearretirement](https://user-images.githubusercontent.com/49353083/114116073-f7dcad00-98b1-11eb-8da5-a4142a19e971.png)
+
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There are not enough retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees, which has been stated previously. There needs to be at least one employee under the Manager position to help mentor other employees in the near future. The query did not show any employees available in the Manager position shown in the image below.
+
+![mentorship](https://user-images.githubusercontent.com/49353083/114114751-7dab2900-98af-11eb-8f11-c662303f2a63.png)
